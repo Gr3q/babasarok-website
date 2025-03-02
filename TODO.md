@@ -10,44 +10,48 @@
 
 * Árakat nem adtam hozzá minden termékhez
 
+* Átrendezni a szekciós sorrendjét
+
+* biztos kimaradt még pár dolog
+
 ## Lista ami még kell tőled - képekhez linket is küldhetsz listán vagy magát a képet is elküldheted
 
-* A minták, anyagok színek listája kéne, mindegyikhez név+leírás. A "Prorduct Categories" szekciót fogom felhasználni erre. Árak itt nem lesznek. 
+* A minták, anyagok színek listája kéne, mindegyikhez név+leírás. A "Prorduct Categories" szekciót fogom felhasználni erre. Árak itt nem lesznek.
 
 * Fő kép kiválasztása
 
 * Rólunk kép kiválasztása - ha akarod próbálhatok találni valami semleges illusztrációt, de ez a kép lehet akár rólatok termékekkel, vagy akár a logó megint ha nem találunk megfelelő képet
 
 * Összes termékről egy-egy kép
-  
+
   * Babafészek
-  
+
   * Fonott Rácsvédő
-  
+
   * Hagyományos Rácsvédő
-  
+
   * Hordozós Takaró
-  
+
   * Szoptatós és Terhespárna
-  
+
   * Duplagéz Kánikulatakaró
 
 * Hiányzó termékekhez leírás
-  
+
   * Párnák
-  
+
   * Pólya
-  
+
   * Babafészek betét
-  
+
   * Zsebes tároló
-  
+
   * Cumilánc
-  
+
   * Szoptatós párna
-  
+
   * Baldachin
-  
+
   * Gumis lepedő
 
 * 4 legnépszerűbb termék kiválasztása
@@ -61,16 +65,16 @@
 * Facebook oldal link, facebook oldal üzenet link?
 
 * Referenciamunkák - választható mennyiség
-  
+
   * Kép
-  
+
   * A termék neve
-  
+
   * Esetleges változtatások a terméken
-  
+
   * Instagram link speckó taggel ami csak azokat a munkákat mutatja az instagramodról amit akarsz, hogy berakjam linknek Referenciamunkák szekcióhoz. Nem tudom milyen jól lehet filterelni az instagramon, lehet ez nem lehetséges.
 
-* Favicon ami megjelenik a böngésző taben, négyzet formátumnek kell lennie. megpróbálhatom átdolgozni a logót de szerintem túl vékony vonalakkal van csinálva ahhoz. 
+* Favicon ami megjelenik a böngésző taben, négyzet formátumnek kell lennie. megpróbálhatom átdolgozni a logót de szerintem túl vékony vonalakkal van csinálva ahhoz.
 
 * Ha valami a mostani oldalon nem tetszik (pl valaminek az elrendezése) azért szólsz
 

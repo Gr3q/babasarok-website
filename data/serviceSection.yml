@@ -1,10 +1,9 @@
 enable: true
-topTitle: Product Categories
+topTitle: Termék fajták
 title: >
-  ## Diversity in Products
+  ## Rövid termék ismertető
 
-  From tasty dried fruits to nutritious nuts and saffron are provided by
-  Helmani.
+  Minták, anyagog és színek
 service:
   - content: >
       #### Pistachios

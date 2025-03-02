@@ -1,11 +1,8 @@
 enable: true
 topTitle: Babasarok
 content: >
-  # Healthy Food, Healthy Life
-
-  The premium quality and tasty dried fruits and nuts from the best farms of
-  Iran toi bring you a healthier and tastier life!
-buttonName: Kapcsolat
+  # Egyedi, kézzel készített babakelengye
+buttonName: Hívj fel
 buttonURL: contact
 image: images/hero/nuts.jpg
 # videoThumb: images/hero/pistachios.jpg

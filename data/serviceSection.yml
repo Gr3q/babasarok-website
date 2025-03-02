@@ -1,4 +1,4 @@
-enable: true
+enable: false
 topTitle: Product Categories
 title: >
   ## Diversity in Products
@@ -7,7 +7,7 @@ title: >
   Helmani.
 service:
   - content: >
-      #### Pistachios 
+      #### Pistachios
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
@@ -19,7 +19,7 @@ service:
       tempor invidunt ut labore et dolore magna aliquyam erat.
     image: images/service/raisins.png
   - content: >
-      #### Dates 
+      #### Dates
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.

@@ -122,7 +122,7 @@ export default defineConfig({
       },
       {
         format: "yml",
-        label: "Product Section",
+        label: "Termék Rész",
         name: "product_section",
         path: "data",
         frontmatterFormat: "yaml",

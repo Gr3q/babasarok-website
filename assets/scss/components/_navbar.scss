@@ -1,5 +1,5 @@
 .navbar {
-  padding: 40px 0;
+  padding: 20px 0;
   background: transparent;
   transition: all 0.3s ease;
   @include desktop {
@@ -19,7 +19,7 @@
   }
   &.nav__color__change {
     background: $white;
-    padding: 20px 0;
+    padding: 10px 0;
     box-shadow: 0 10px 20px 0 rgba(50, 65, 141, 0.1);
     @include desktop {
       padding: 15px 20px;

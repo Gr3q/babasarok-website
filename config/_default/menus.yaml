@@ -14,9 +14,9 @@ main:
   - name: Termékek
     url: "#product"
     weight: 5
-  - name: Ajánlások
-    url: "#testimonial"
-    weight: 6
+  # - name: Ajánlások
+  #   url: "#testimonial"
+  #   weight: 6
   - name: Referenciamunkák
     url: "#blog"
     weight: 7

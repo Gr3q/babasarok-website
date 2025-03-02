@@ -1,5 +1,5 @@
 titleSeparator: '-'
-titleAddition: Nuts and Dried Food
+titleAddition: Egyedi, kézzel készített babakelengye
 # description: >-
 #   Healthy Food, Healthy Life, The premium quality and tasty dried fruits and
 #   nuts from the best farms of Iran to bring you a healthier and tastier life!
@@ -52,44 +52,35 @@ singleSize: false
 imageAddClass: img-fluid lazyload blur-up
 defaultImage: default-image.png
 fillImage: 1280x720 Center
-# alert: false
-# alertDismissable: true
-# alertText: >-
-#   Deliver web projects 10x faster. <a class="alert-link"
-#   href="https://www.netlify.com/whitepaper/" target="_blank" rel="noopener">Get
-#   the free enterprise paper →</a>
 blogPageURL: blog
 contactLink: contact
 copyright: All right reserved copyright © Babasarok 2025
-footerLogo: images/site-navigation/logo.png
+footerLogo: images/site-navigation/logo-dark.png
 footerContact:
-  topTitle: Let's Start
-  title: Egy álom kezdete
+  topTitle: Kapcsolat
+  title: Rendelj most!
   button: Hívj fel
 fabformURL: 'https://fabform.io/f/JpTXRUa'
 googleAnalytics: YOUR GOOGLE ANALYTICS CODE
 logo: images/site-navigation/logo.png
-# address:
-#   address: '20 Piroozi, Sattar Khan, Tehran.'
-#   email: info@helmani.com
-#   openingHours: Open from 10am to 6pm (close at 5pm Sundays)
-#   phone: (+98) 911 86 2774
+address:
+  address: '20 Piroozi, Sattar Khan, Tehran.'
+  email: info@helmani.com
+  openingHours: Open from 10am to 6pm (close at 5pm Sundays)
+  phone: (+98) 911 86 2774
 # map:
 #   APIkey: YOUR GOOGLE MAP API
 #   latitude: '23.7783741'
 #   longitude: '90.3746808'
 #   pinImage: images/pin.png
-# social:
-#   - icon: fa-facebook-official
-#     url: 'https://www.facebook.com/'
-#     weight: 1
-#   - icon: fa-linkedin-square
-#     url: 'https://www.linkedin.com/'
-#     weight: 2
-#   - icon: fa-pinterest-square
-#     url: 'https://www.pinterest.com/'
-#     weight: 3
-#   - icon: fa-twitter-square
-#     url: 'https://twitter.com/'
-#     weight: 4
+social:
+  - icon: fa-facebook-official
+    url: 'https://www.facebook.com/'
+    weight: 1
+  - icon: fa-linkedin-square
+    url: 'https://www.linkedin.com/'
+    weight: 2
+  - icon: fa-twitter-square
+    url: 'https://twitter.com/'
+    weight: 4
 _template: parameters_template

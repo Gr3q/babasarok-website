@@ -6,6 +6,10 @@
 
 * Rendelés menete a kapcsolat oldalon van mivel annyi link van ahhoz az oldalhoz hogy minden más oldalról el lehet érni
 
+## Dolgok amit még nem csináltam meg
+
+* Árakat nem adtam hozzá minden termékhez
+
 ## Lista ami még kell tőled - képekhez linket is küldhetsz listán vagy magát a képet is elküldheted
 
 * A minták, anyagok színek listája kéne, mindegyikhez név+leírás. A "Prorduct Categories" szekciót fogom felhasználni erre. Árak itt nem lesznek. 
@@ -67,6 +71,8 @@
   * Instagram link speckó taggel ami csak azokat a munkákat mutatja az instagramodról amit akarsz, hogy berakjam linknek Referenciamunkák szekcióhoz. Nem tudom milyen jól lehet filterelni az instagramon, lehet ez nem lehetséges.
 
 * Favicon ami megjelenik a böngésző taben, négyzet formátumnek kell lennie. megpróbálhatom átdolgozni a logót de szerintem túl vékony vonalakkal van csinálva ahhoz. 
+
+* Ha valami a mostani oldalon nem tetszik (pl valaminek az elrendezése) azért szólsz
 
 ## Első verzió utáni munkamenet
 

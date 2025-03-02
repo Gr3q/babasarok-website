@@ -5,7 +5,8 @@ disableHugoGeneratorInject: false
 enableEmoji: true
 enableGitInfo: false
 enableRobotsTXT: true
-paginate: 6
+pagination:
+  pagerSize: 6
 title: Babasarok
 rssLimit: 10
 outputs:

@@ -1,9 +1,9 @@
 enable: true
-topTitle: Termékek
+# topTitle: Termék fajták
 title: |
-  ## Legújabb Termékeink
+  ## Legnépszerűbb Termékeink
 
-  Böngéssz weboldalunkon, és nézd meg az általad választott termékek leírását. Fontos, hogy mivel minden termék egyedi elképzelés alapján készül, a színek és minták széles választéka nem található az oldalon. Ha konkrét elképzelésed van, ne habozz kapcsolatba lépni velünk!
+  Fontos, hogy mivel minden termék egyedi elképzelés alapján készül, a színek és minták széles választéka nem található az oldalon. Ha konkrét elképzelésed van, ne habozz kapcsolatba lépni velünk!
 _template: product_section_template
 buttonName: Összes termék
 buttonTarget: product

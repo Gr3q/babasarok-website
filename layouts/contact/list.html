@@ -41,7 +41,7 @@
   <section class="section contact__info">
     <div class="container">
       <div class="row">
-        <div class="col-lg-4">
+        {{/*  <div class="col-lg-6">
           <div class="contact__info_item">
             <div class="contact__info_item-icon">
               <div class="icon-background">
@@ -61,8 +61,8 @@
               {{ $address.address }}
             </p>
           </div>
-        </div>
-        <div class="col-lg-4">
+        </div>  */}}
+        <div class="col-lg-6">
           <div class="contact__info_item">
             <div class="contact__info_item-icon">
               <div class="icon-background">
@@ -84,7 +84,7 @@
             </p>
           </div>
         </div>
-        <div class="col-lg-4">
+        <div class="col-lg-6">
           <div class="contact__info_item">
             <div class="contact__info_item-icon">
               <div class="icon-background">
@@ -96,16 +96,22 @@
                 </svg>
               </div>
               <div class="icon">
-                <img src="{{ "images/contact/time.svg" | absURL }}" alt="time" />
+                <img src="{{ "images/contact/social-media.svg" | absURL }}" alt="time" />
               </div>
             </div>
-            <h4>Munkaidő</h4>
+            <h4>Közösségi Média</h4>
             <p>
               {{ $address.openingHours }}
             </p>
           </div>
         </div>
       </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="container">
+      {{ .Content }}
     </div>
   </section>
 

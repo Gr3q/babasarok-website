@@ -52,6 +52,10 @@
     background: none;
     margin: 0;
     padding: 0;
+    display: flex;
+    flex-wrap: nowrap;
+    white-space: nowrap;
+    overflow: hidden;
     &-item {
       a {
         color: $secondary;
@@ -62,6 +66,11 @@
       }
     }
   }
+  .breadcrumb-item {
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
   .breadcrumb-item + .breadcrumb-item::before {
     content: "-";
   }

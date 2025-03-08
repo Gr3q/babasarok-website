@@ -149,7 +149,6 @@
       "form-control",
       "form-group",
       "form-row",
-      "gap-y-2",
       "hero",
       "hero_background-svg",
       "hero_blob",
@@ -230,6 +229,7 @@
       "text-right",
       "text-sm-center",
       "title",
+      "title-box",
       "top-title",
       "unstyle-list"
     ],

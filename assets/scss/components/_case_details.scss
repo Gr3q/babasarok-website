@@ -1,5 +1,8 @@
 .case-details {
   padding: 200px 0 100px;
+  @include mobile {
+    padding: 120px 0 100px;
+  }
   .svg-img {
     position: absolute;
     top: 30%;

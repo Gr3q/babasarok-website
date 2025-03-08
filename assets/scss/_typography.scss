@@ -15,7 +15,9 @@ a.text-dark {
 }
 
 .top-title {
-  font-size: 20px;
+  @include mobile-gt {
+    font-size: 20px;
+  }
   display: block;
   color: $dark;
   @extend .mb-3;
@@ -69,11 +71,11 @@ a.text-dark {
   }
 
   h1 {
-    font-size: 2.5rem;
+    font-size: 2.25rem;
   }
 
   h2 {
-    font-size: 2rem;
+    font-size: 1.9rem;
   }
 
   h3 {

@@ -8,6 +8,14 @@
     padding: 150px 0 30px;
   }
 
+  .title-box {
+    margin-bottom: 3rem;
+
+    @include mobile {
+      margin-bottom: 0.5rem;
+    }
+  }
+
   &_background-svg {
     position: absolute;
     top: 0;
@@ -76,6 +84,9 @@
     @include desktop {
       width: 100%;
     }
+    @include mobile {
+      max-height: 40vh;
+    }
     .figure-svg {
       position: absolute;
       top: -55px;
@@ -88,11 +99,17 @@
       img {
         height: 100%;
         width: 100%;
+        @include mobile {
+          max-height: 40vh;
+        }
       }
     }
     img {
       height: 100%;
       width: 100%;
+      @include mobile {
+        max-height: 40vh;
+      }
     }
     &-popup {
       position: absolute;

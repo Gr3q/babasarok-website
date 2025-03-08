@@ -52,3 +52,9 @@
     @content;
   }
 }
+
+@mixin mobile-gt {
+  @media (min-width: 575px) {
+    @content;
+  }
+}

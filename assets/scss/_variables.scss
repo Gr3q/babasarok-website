@@ -6,15 +6,17 @@
 $primary: #40873c;
 $secondary: #282f49;
 
-$background: #fff;
-$light-background: #f1f6f9;
-$dark-background: #1b2031;
+
 
 body {
   --background: #fff;
   --light-background: #f1f6f9;
   --dark-background: #1b2031;
 }
+
+$background: var(--background);
+$light-background: var(--light-background);
+$dark-background: var(--dark-background);
 
 // Text
 $headings-color: #282f49;

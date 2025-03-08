@@ -23,6 +23,7 @@
     @content;
   }
 }
+
 @mixin desktop-lg {
   @media (max-width: 1200px) {
     @content;
@@ -44,4 +45,10 @@
 @mixin size($size) {
   width: $size;
   height: $size;
+}
+
+@mixin desktop-gt {
+  @media (min-width: 991px) {
+    @content;
+  }
 }

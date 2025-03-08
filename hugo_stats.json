@@ -149,6 +149,7 @@
       "form-control",
       "form-group",
       "form-row",
+      "gap-y-2",
       "hero",
       "hero_background-svg",
       "hero_blob",

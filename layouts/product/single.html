@@ -27,6 +27,11 @@
             <h1>{{ .Title }}</h1>
           </div>
           <p>{{ .Params.shortDescription }}</p>
+          <div class="case-details-thumb mb-5">
+            {{ $asset := resources.Get .Params.thumbnail }}
+            {{ $img := $asset.Resize "1000x webp" }}
+            <img src="{{ $img.RelPermalink }}" alt="case-details" />
+          </div>
           <div class="case-details-info">
             {{ range .Params.table }}
               <div class="case-details-info-item">
@@ -34,11 +39,6 @@
                 <p>{{ .description }}</p>
               </div>
             {{ end }}
-          </div>
-          <div class="case-details-thumb mb-5">
-            {{ $asset := resources.Get .Params.thumbnail }}
-            {{ $img := $asset.Resize "1000x webp" }}
-            <img src="{{ $img.RelPermalink }}" alt="case-details" />
           </div>
           {{ .Content }}
         </div>
@@ -57,7 +57,7 @@
                   </svg>
                 </div>
                 <div class="content">
-                  <span class="small">Prev case</span>
+                  <span class="small">Előző</span>
                   <h5 class="title">
                     <a class="text-dark" href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title }}</a>
                   </h5>
@@ -87,7 +87,7 @@
             {{ if .NextInSection }}
               <div class="next d-flex align-items-center">
                 <div class="content text-right">
-                  <span class="small">Next case</span>
+                  <span class="small">Következő</span>
                   <h5 class="title">
                     <a class="text-dark" href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }}</a>
                   </h5>

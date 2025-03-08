@@ -59,15 +59,15 @@ footerLogo: images/site-navigation/logo-dark.png
 footerContact:
   topTitle: Kapcsolat
   title: Rendelj most!
-  button: Hívj fel
+  button: Érdeklődj itt
 fabformURL: 'https://fabform.io/f/JpTXRUa'
 googleAnalytics: YOUR GOOGLE ANALYTICS CODE
 logo: images/site-navigation/logo.png
 address:
-  address: '20 Piroozi, Sattar Khan, Tehran.'
+  address: '3896, Telkibánya Petőfi út 87.'
   email: halminoemi99@gmail.com
-  openingHours: Open from 10am to 6pm (close at 5pm Sundays)
-  phone: (+98) 911 86 2774
+  openingHours: TODO
+  phone: "+36 30 2121 709"
 # map:
 #   APIkey: YOUR GOOGLE MAP API
 #   latitude: '23.7783741'

@@ -37,11 +37,17 @@
     </div>
   </header>
 
+  <section>
+    <div class="container pt-4">
+      {{ .Content }}
+    </div>
+  </section>
+
   {{ $address := .Site.Params.address }}
   <section class="section contact__info">
     <div class="container">
       <div class="row">
-        {{/*  <div class="col-lg-6">
+        <div class="col-lg-4">
           <div class="contact__info_item">
             <div class="contact__info_item-icon">
               <div class="icon-background">
@@ -61,8 +67,8 @@
               {{ $address.address }}
             </p>
           </div>
-        </div>  */}}
-        <div class="col-lg-6">
+        </div>
+        <div class="col-lg-4">
           <div class="contact__info_item">
             <div class="contact__info_item-icon">
               <div class="icon-background">
@@ -84,7 +90,7 @@
             </p>
           </div>
         </div>
-        <div class="col-lg-6">
+        <div class="col-lg-4">
           <div class="contact__info_item">
             <div class="contact__info_item-icon">
               <div class="icon-background">
@@ -106,12 +112,6 @@
           </div>
         </div>
       </div>
-    </div>
-  </section>
-
-  <section>
-    <div class="container">
-      {{ .Content }}
     </div>
   </section>
 

@@ -2,7 +2,7 @@ enable: true
 topTitle: Babasarok
 content: >
   # Egyedi, kézzel készített babakelengye
-buttonName: Hívj fel
+buttonName: Érdeklődj itt
 buttonURL: contact
 image: images/hero/nuts.jpg
 # videoThumb: images/hero/pistachios.jpg

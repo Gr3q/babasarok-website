@@ -3,7 +3,7 @@ title: Lépj kapcsolatba
 breadcrumb: Kapcsolat
 ---
 
-## Rendelés menete
+### Rendelés menete
 
 1. *Válaszd ki a kívánt terméket*
 
@@ -11,7 +11,7 @@ breadcrumb: Kapcsolat
 
 2. *Vedd fel velünk a kapcsolatot*
 
-   A legjobb módja annak, hogy további információkat kapj a termékek színeiről, mintáiról és egyéb részleteiről, ha kapcsolatba lépsz velünk a fenti módokon vagy lejjeb üzenetben. Írj nekünk, és mi örömmel küldünk több lehetőséget és példát, hogy megtaláld az elképzeléseidnek leginkább megfelelő választást.
+   A legjobb módja annak, hogy további információkat kapj a termékek színeiről, mintáiról és egyéb részleteiről, ha kapcsolatba lépsz velünk a lenti módokon vagy még lejjeb üzenetben. Írj nekünk, és mi örömmel küldünk több lehetőséget és példát, hogy megtaláld az elképzeléseidnek leginkább megfelelő választást.
 
 3. *Egyedi rendelés és egyeztetés*
 

@@ -7,7 +7,6 @@
   }
   @include desktop {
     padding: 15px 20px;
-    margin: 10px 10px 0;
     border-radius: 5px;
   }
   .navbar-brand {
@@ -23,6 +22,7 @@
     box-shadow: 0 10px 20px 0 rgba(50, 65, 141, 0.1);
     @include desktop {
       padding: 15px 20px;
+      margin: 10px 10px 0;
     }
   }
   @include desktop {

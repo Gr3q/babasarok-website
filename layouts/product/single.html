@@ -28,9 +28,11 @@
           </div>
           <p>{{ .Params.shortDescription }}</p>
           <div class="case-details-thumb mb-5">
+            {{ if (isset .Params "thumbnail") }}
             {{ $asset := resources.Get .Params.thumbnail }}
             {{ $img := $asset.Resize "1000x webp" }}
             <img src="{{ $img.RelPermalink }}" alt="case-details" />
+            {{ end }}
           </div>
           <div class="case-details-info">
             {{ range .Params.table }}

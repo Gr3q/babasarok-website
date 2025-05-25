@@ -1,6 +1,6 @@
 ---
 title: Kismama párna
-date: 2020-08-12T18:07:16.000+06:00
+date: 2025-04-29T18:07:16.000+06:00
 thumbnail: images/product/kismamaparna.jpg
 table:
   - title: Service

@@ -1,6 +1,6 @@
 ---
 title: Dekorbetűk
-date: 2025-03-02T12:49:27.000+06:00
+date: 2025-04-28T12:49:27.000+06:00
 thumbnail: images/product/dekorbetuk.jpg
 table:
   - title: Normál méret 35x65cm

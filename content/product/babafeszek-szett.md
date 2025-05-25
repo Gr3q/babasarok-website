@@ -1,6 +1,6 @@
 ---
 title: Babafészek szett
-date: 2025-03-02T12:49:27.000+06:00
+date: 2025-05-02T12:49:27.000+06:00
 thumbnail: images/product/babafeszek-szett.jpeg
 table:
   - title: Normál méret 35x65cm

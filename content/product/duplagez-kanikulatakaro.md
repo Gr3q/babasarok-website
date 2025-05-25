@@ -1,6 +1,6 @@
 ---
 title: Duplagéz Kánikulatakaró
-date: 2020-08-12T18:07:16.000+06:00
+date: 2025-05-01T18:07:16.000+06:00
 thumbnail: images/product/kanikulatakaro-combined.jpg
 table:
   - title: Service

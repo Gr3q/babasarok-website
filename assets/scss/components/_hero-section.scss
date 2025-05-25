@@ -89,6 +89,7 @@
     }
     @include mobile {
       max-height: 40vh;
+      object-fit: contain;
     }
     .figure-svg {
       position: absolute;
@@ -104,6 +105,7 @@
         width: 100%;
         @include mobile {
           max-height: 40vh;
+          object-fit: contain;
         }
       }
 
@@ -116,6 +118,7 @@
       width: 100%;
       @include mobile {
         max-height: 40vh;
+        object-fit: contain;
       }
     }
     &-popup {

@@ -37,7 +37,7 @@ export default defineConfig({
     collections: [
       {
         format: "yml",
-        label: "Hero",
+        label: "Hero szekció",
         name: "hero",
         path: "data",
         frontmatterFormat: "yaml",
@@ -54,7 +54,7 @@ export default defineConfig({
       },
       {
         format: "yml",
-        label: "About",
+        label: "Rólunk szekció",
         name: "about",
         path: "data",
         frontmatterFormat: "yaml",
@@ -71,7 +71,7 @@ export default defineConfig({
       },
       {
         format: "yml",
-        label: "Services",
+        label: "Termék ismertető szekció",
         name: "services",
         path: "data",
         frontmatterFormat: "yaml",
@@ -88,7 +88,7 @@ export default defineConfig({
       },
       {
         format: "yml",
-        label: "Resume",
+        label: "Önélatrajz szekció",
         name: "resume",
         path: "data",
         frontmatterFormat: "yaml",
@@ -105,7 +105,7 @@ export default defineConfig({
       },
       {
         format: "yml",
-        label: "Testimonials",
+        label: "Ajánlások szekció",
         name: "testimonials",
         path: "data",
         frontmatterFormat: "yaml",
@@ -122,7 +122,7 @@ export default defineConfig({
       },
       {
         format: "yml",
-        label: "Termék Rész",
+        label: "Termék szekció",
         name: "product_section",
         path: "data",
         frontmatterFormat: "yaml",
@@ -139,7 +139,7 @@ export default defineConfig({
       },
       {
         format: "yml",
-        label: "Blog Section",
+        label: "Referenciamunkák szekció",
         name: "blog_section",
         path: "data",
         frontmatterFormat: "yaml",
@@ -156,7 +156,7 @@ export default defineConfig({
       },
       {
         format: "md",
-        label: "Product",
+        label: "Összes Termék",
         name: "product",
         path: "content/product",
         frontmatterFormat: "yaml",
@@ -167,7 +167,7 @@ export default defineConfig({
       },
       {
         format: "md",
-        label: "Contact",
+        label: "Rendelés (Kapcsolat)",
         name: "contact",
         path: "content/contact",
         frontmatterFormat: "yaml",
@@ -186,7 +186,7 @@ export default defineConfig({
       },
       {
         format: "md",
-        label: "Blog",
+        label: "Összes Referenciamunka",
         name: "blog",
         path: "content/blog",
         frontmatterFormat: "yaml",
@@ -197,7 +197,7 @@ export default defineConfig({
       },
       {
         format: "yaml",
-        label: "Config File",
+        label: "Config Fájl",
         name: "config_file",
         path: "config/_default",
         frontmatterFormat: "yaml",
@@ -214,7 +214,7 @@ export default defineConfig({
       },
       {
         format: "yaml",
-        label: "Menus File",
+        label: "Menü Fájl",
         name: "menus_file",
         path: "config/_default",
         frontmatterFormat: "yaml",
@@ -231,7 +231,7 @@ export default defineConfig({
       },
       {
         format: "yaml",
-        label: "Parameters File",
+        label: "Paraméter Fájl",
         name: "parameters_file",
         path: "config/_default",
         frontmatterFormat: "yaml",

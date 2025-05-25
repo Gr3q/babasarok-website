@@ -2,43 +2,35 @@ enable: true
 topTitle: Termék fajták
 title: >
   ## Rövid termék ismertető
-
-  Minták, anyagog és színek
 service:
   - content: >
-      #### Pistachios
+      #### Fonott Rácsvédő
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/pistachio.png
+      A fonott rácsvédő nemcsak dizájnos kiegészítője a kiságyának, hanem praktikus védelmet is nyújt. Puha, pufi anyaga megóvja a baba fejét a rácsokkal való ütközéstől, különösen, amikor a pici már forogni kezd.
+    image: images/product/fonott-racsvedo.jpg
   - content: >
-      #### Raisins
+      #### Babafészek szett
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/raisins.png
+      A babafészek szűk, ölelő formája anyaméhhez hasonló környezetet teremt, ami megnyugtatja a babát és segíti a pihentető alvást. A szett tartalmazza a babafészket, párnát és takarót – mindent, amire a kényelmes pihenéshez szükség van.
+    image: images/product/babafeszek-szett.jpeg
   - content: >
-      #### Dates
+      #### Kánikulatakaró
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/dates.png
+      A duplagéz kánikulatakaró ideális választás a nyári hőségben, amikor még a legkisebbek is kényelmetlenül érzik magukat a melegben. Két rétegben takaróként, egy rétegben pedig textilpelusként használható, sőt, sok baba imádja "nyunyókaként" is.
+    image: images/product/kanikulatakaro-combined.jpg
   - content: >
-      #### Walnuts
+      #### Kismama párna
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/walnut.png
+      Ez a sokoldalú párna nemcsak a szoptatás során nyújt kényelmet, hanem a terhesség alatt is tökéletes alvást biztosít a növekvő pocaknak. A szoptatás során enyhíti a hát- és nyakfájdalmakat, miközben támogatja a baba megfelelő pozicionálását.
+    image: images/product/kismamaparna.jpg
   - content: >
-      #### Saffron
+      #### Dekorbetűk
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/saffron.png
+      Fedezd fel a babaszoba legújabb trendjét: a falra ragasztható dekorbetűket! Egyedivé varázsolhatod vele a szobát, legyen szó a baba nevéről vagy egy kedves üzenetről. Kiegészítő elemekkel, mint virágok, pillangók, hajók, csillagok vagy horgonyok, még kedvesebbé teheted a dekorációt – csak a képzelet szab határt!
+    image: images/product/dekorbetuk.jpg
   - content: >
-      #### Barberries
+      #### Cumi- és rágcsáláncok
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/barberry.png
+      A szilikon cumi- és rágcsáláncok tökéletesek arra, hogy a baba mindig kéznél találja a cumit, így nem kell aggódni, ha lepottyan, ezek mellett pedig segítenek enyhíteni a fogzás okozta kellemetlenségeket is. Stílusos és praktikus!
+    image: images/product/cumi-ragcsalanc.jpg
 _template: service_template

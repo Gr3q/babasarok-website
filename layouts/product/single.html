@@ -34,14 +34,16 @@
             <img src="{{ $img.RelPermalink }}" alt="case-details" />
             {{ end }}
           </div>
-          <div class="case-details-info">
-            {{ range .Params.table }}
-              <div class="case-details-info-item">
-                <h5>{{ .title }}</h5>
-                <p>{{ .description }}</p>
+          {{ if (isset .Params "table") }}
+            <div class="case-details-info">
+              {{ range .Params.table }}
+                <div class="case-details-info-item">
+                  <h5>{{ .title }}</h5>
+                  <p>{{ .description }}</p>
+                </div>
+              {{ end }}
               </div>
             {{ end }}
-          </div>
           {{ .Content }}
         </div>
       </div>

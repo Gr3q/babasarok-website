@@ -1,6 +1,6 @@
 # TODO: Change this on first deploy
 baseURL: 'https://babasarok.pages.dev/'
-languageCode: en-us
+languageCode: hu-hu
 disableAliases: true
 disableHugoGeneratorInject: false
 enableEmoji: true

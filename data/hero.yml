@@ -4,7 +4,5 @@ content: >
   # Egyedi, kézzel készített babakelengye
 buttonName: Érdeklődj itt
 buttonURL: contact
-image: images/hero/nuts.jpg
-# videoThumb: images/hero/pistachios.jpg
-# videoURL: 'https://youtu.be/1-NOOoqlvfA'
+image: images/hero/IMG_5440.jpeg
 _template: hero_template

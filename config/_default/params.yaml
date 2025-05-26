@@ -51,7 +51,7 @@ address:
   address: '3896, Telkibánya Petőfi út 87.'
 social:
   - {}
-  - {}
+  - url: 'https://www.instagram.com/babasarokk/'
   - icon: fa-instagram
     url: 'https://www.tiktok.com/@halminoemi99?_t=ZG-8wgf8AuszwG&_r=1'
     weight: 1

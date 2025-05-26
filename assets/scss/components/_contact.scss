@@ -34,6 +34,9 @@
     a {
       color: $body-color;
       text-decoration: underline;
+      &:hover {
+        color: $primary;
+      }
     }
   }
 }

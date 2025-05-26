@@ -1,7 +1,7 @@
 ---
 title: Dekorbetűk
 date: 2025-04-28T12:49:27.000+06:00
-thumbnail: images/product/dekorbetuk.jpg
+thumbnail: /images/product/dekorbetuk.jpg
 # table:
 #   - title: Normál méret 35x65cm
 #     description: 12000Ft

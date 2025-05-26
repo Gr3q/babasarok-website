@@ -1,7 +1,7 @@
 ---
 title: Kismama párna
 date: 2025-04-29T18:07:16.000+06:00
-thumbnail: images/product/kismamaparna.jpg
+thumbnail: /images/product/kismamaparna.jpg
 # table:
 #   - title: Service
 #     description: Development, UX Design

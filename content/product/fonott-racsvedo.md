@@ -1,7 +1,7 @@
 ---
 title: Fonott Rácsvédő
 date: 2025-05-20T18:07:16.000+06:00
-thumbnail: images/product/fonott-racsvedo.jpg
+thumbnail: /images/product/fonott-racsvedo.jpg
 # table:
 #   - title: Service
 #     description: Development, UX Design

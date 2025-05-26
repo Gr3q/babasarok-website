@@ -1,7 +1,7 @@
 ---
 title: Babafészek
 date: 2024-02-02T12:49:27.000+06:00
-thumbnail: images/product/babafeszek-szett.jpeg
+thumbnail: /images/product/babafeszek-szett.jpeg
 # table:
 #   - title: Normál méret 35x65cm
 #     description: 12000Ft

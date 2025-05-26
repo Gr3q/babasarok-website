@@ -1,7 +1,7 @@
 ---
 title: Cumi- és rágcsáláncok
 date: 2025-04-27T12:49:27.000+06:00
-thumbnail: images/product/cumi-ragcsalanc.jpg
+thumbnail: /images/product/cumi-ragcsalanc.jpg
 # table:
 #   - title: Normál méret 35x65cm
 #     description: 12000Ft

@@ -85,6 +85,8 @@
       "btn-primary",
       "btn-zoom",
       "case-details",
+      "case-details-info",
+      "case-details-info-item",
       "case-details-nav",
       "case-details-thumb",
       "case-details-title",

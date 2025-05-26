@@ -5,17 +5,17 @@ export function about_templateFields(): TinaField<false>[] {
     {
       type: "boolean",
       name: "enable",
-      label: "enable",
+      label: "Bekapcsolva",
     },
     {
       type: "string",
       name: "topTitle",
-      label: "top-title",
+      label: "Cím",
     },
     {
       type: "string",
       name: "title",
-      label: "title",
+      label: "Cím tartalom",
       ui: {
         component: "textarea",
       },
@@ -23,7 +23,7 @@ export function about_templateFields(): TinaField<false>[] {
     {
       type: "string",
       name: "content",
-      label: "content",
+      label: "Tartalom",
       ui: {
         component: "textarea",
       },
@@ -31,27 +31,27 @@ export function about_templateFields(): TinaField<false>[] {
     {
       type: "string",
       name: "button1Name",
-      label: "button1Name",
+      label: "Első gomb neve",
     },
     {
       type: "string",
       name: "button2Name",
-      label: "button2Name",
+      label: "Második gomb neve",
     },
     {
       type: "string",
       name: "button1Target",
-      label: "button1Target",
+      label: "Első gomb URL",
     },
     {
       type: "string",
       name: "button2Target",
-      label: "button2Target",
+      label: "Második gomb URL",
     },
     {
       type: "image",
       name: "image",
-      label: "image",
+      label: "Kép",
     },
   ];
 }
@@ -60,17 +60,17 @@ export function blog_section_templateFields(): TinaField<false>[] {
     {
       type: "boolean",
       name: "enable",
-      label: "enable",
+      label: "Bekapcsolva",
     },
     {
       type: "string",
       name: "topTitle",
-      label: "title",
+      label: "Cím",
     },
     {
       type: "string",
       name: "title",
-      label: "Title",
+      label: "Cím tartalom",
       ui: {
         component: "textarea",
       },
@@ -78,12 +78,12 @@ export function blog_section_templateFields(): TinaField<false>[] {
     {
       type: "string",
       name: "buttonName",
-      label: "Button name",
+      label: "Gomb tartalma",
     },
     {
       type: "string",
       name: "buttonTarget",
-      label: "Button target",
+      label: "Gomb URL",
     },
   ];
 }
@@ -92,32 +92,32 @@ export function blog_templateFields(): TinaField<false>[] {
     {
       type: "string",
       name: "title",
-      label: "Title",
+      label: "Cím",
     },
     {
       type: "datetime",
       name: "date",
-      label: "date",
+      label: "Dátum",
     },
     {
       type: "image",
       name: "featureImage",
-      label: "featureImage",
+      label: "Kiemelt kép",
     },
     {
       type: "image",
       name: "postImage",
-      label: "postImage",
+      label: "Bejegyzés kép (lehet ugyanaz, mint a kiemelt)",
     },
     {
       type: "string",
       name: "tags",
-      label: "Tags",
+      label: "Tagek",
     },
     {
       type: "string",
       name: "categories",
-      label: "Categories",
+      label: "Kategóriák",
     },
   ];
 }
@@ -126,27 +126,27 @@ export function config_templateFields(): TinaField<false>[] {
     {
       type: "string",
       name: "baseURL",
-      label: "baseURL",
+      label: "Oldal URL",
     },
     {
       type: "string",
       name: "languageCode",
-      label: "languageCode",
+      label: "Nyelvi kód",
     },
     {
       type: "string",
       name: "title",
-      label: "Title",
+      label: "Cím",
     },
     {
       type: "string",
       name: "theme",
-      label: "theme",
+      label: "Vizuális Téma",
     },
     {
       type: "number",
       name: "paginate",
-      label: "paginate",
+      label: "Oldalankénti bejegyzések száma",
     },
   ];
 }
@@ -155,17 +155,17 @@ export function hero_templateFields(): TinaField<false>[] {
     {
       type: "boolean",
       name: "enable",
-      label: "enable",
+      label: "Bekapcsolva",
     },
     {
       type: "string",
       name: "topTitle",
-      label: "title",
+      label: "Cím",
     },
     {
       type: "string",
       name: "content",
-      label: "content",
+      label: "Tartalom",
       ui: {
         component: "textarea",
       },
@@ -173,27 +173,27 @@ export function hero_templateFields(): TinaField<false>[] {
     {
       type: "string",
       name: "buttonName",
-      label: "buttonName",
+      label: "Gomb tartalma",
     },
     {
       type: "string",
       name: "buttonURL",
-      label: "buttonURL",
+      label: "Gomb URL-e",
     },
     {
       type: "image",
       name: "image",
-      label: "image",
+      label: "Kép",
     },
     {
       type: "image",
       name: "videoThumb",
-      label: "videoThumb",
+      label: "Videó előnézet",
     },
     {
       type: "string",
       name: "videoURL",
-      label: "videoURL",
+      label: "Videó URL",
     },
   ];
 }
@@ -202,18 +202,18 @@ export function menus_templateFields(): TinaField<false>[] {
     {
       type: "object",
       name: "main",
-      label: "Main menu",
+      label: "Főmenü",
       fields: [
         {
           type: "object",
           name: "main",
-          label: "main",
+          label: "Menü",
           list: true,
           fields: [
             {
               type: "string",
               name: "name",
-              label: "name",
+              label: "Név",
             },
             {
               type: "string",
@@ -223,7 +223,7 @@ export function menus_templateFields(): TinaField<false>[] {
             {
               type: "number",
               name: "weight",
-              label: "weight",
+              label: "Prioritás (kisebb érték, nagyobb prioritás)",
             },
           ],
         },
@@ -402,20 +402,35 @@ export function product_section_templateFields(): TinaField<false>[] {
     {
       type: "boolean",
       name: "enable",
-      label: "enable",
+      label: "Bekapcsolva",
     },
     {
       type: "string",
       name: "topTitle",
-      label: "title",
+      label: "Cím",
     },
     {
       type: "string",
       name: "title",
-      label: "Title",
+      label: "Cím tartalom",
       ui: {
         component: "textarea",
       },
+    },
+    {
+      type: "string",
+      name: "buttonName",
+      label: "Gomb tartalma",
+    },
+    {
+      type: "string",
+      name: "buttonTarget",
+      label: "Gomb URL",
+    },
+    {
+      type: "number",
+      name: "itemCount",
+      label: "Termékek száma",
     },
   ];
 }
@@ -424,45 +439,45 @@ export function product_templateFields(): TinaField<false>[] {
     {
       type: "string",
       name: "title",
-      label: "Title",
+      label: "Név",
+    },
+        {
+      type: "string",
+      name: "categories",
+      label: "Alcím",
     },
     {
       type: "datetime",
       name: "date",
-      label: "date",
+      label: "Dátum",
     },
     {
       type: "image",
       name: "thumbnail",
-      label: "Thumbnail",
+      label: "Kép",
     },
     {
       type: "object",
       name: "table",
-      label: "Table",
+      label: "Ár",
       list: true,
       fields: [
         {
           type: "string",
           name: "title",
-          label: "Title",
+          label: "Ár címe",
         },
         {
           type: "string",
           name: "description",
-          label: "Description",
+          label: "Ár",
         },
       ],
     },
     {
       type: "string",
-      name: "categories",
-      label: "Categories",
-    },
-    {
-      type: "string",
       name: "shortDescription",
-      label: "shortDescription",
+      label: "Leírás",
       ui: {
         component: "textarea",
       },
@@ -474,17 +489,17 @@ export function resume_templateFields(): TinaField<false>[] {
     {
       type: "boolean",
       name: "enable",
-      label: "enable",
+      label: "Bekapcsolva",
     },
     {
       type: "string",
       name: "topTitle",
-      label: "top-title",
+      label: "Cím",
     },
     {
       type: "string",
       name: "title",
-      label: "title",
+      label: "Cím tartalom",
       ui: {
         component: "textarea",
       },
@@ -492,22 +507,22 @@ export function resume_templateFields(): TinaField<false>[] {
     {
       type: "string",
       name: "tab1Name",
-      label: "tab1Name",
+      label: "Tab 1 neve",
     },
     {
       type: "string",
       name: "tab2Name",
-      label: "tab2Name",
+      label: "Tab 2 neve",
     },
     {
       type: "string",
       name: "tab1Target",
-      label: "tab1Target",
+      label: "Tab 1 URL",
     },
     {
       type: "string",
       name: "tab2Target",
-      label: "tab2Target",
+      label: "Tab 2 URL",
     },
     {
       type: "object",
@@ -568,17 +583,17 @@ export function service_templateFields(): TinaField<false>[] {
     {
       type: "boolean",
       name: "enable",
-      label: "enable",
+      label: "Bekapcsolva",
     },
     {
       type: "string",
       name: "topTitle",
-      label: "topTitle",
+      label: "Cím",
     },
     {
       type: "string",
       name: "title",
-      label: "title",
+      label: "Cím tartalom",
       ui: {
         component: "textarea",
       },
@@ -586,13 +601,13 @@ export function service_templateFields(): TinaField<false>[] {
     {
       type: "object",
       name: "service",
-      label: "Service",
+      label: "Termék ismertető",
       list: true,
       fields: [
         {
           type: "string",
           name: "content",
-          label: "Content",
+          label: "Tartalom",
           ui: {
             component: "textarea",
           },
@@ -600,7 +615,7 @@ export function service_templateFields(): TinaField<false>[] {
         {
           type: "image",
           name: "image",
-          label: "Icon",
+          label: "Ikon",
         },
       ],
     },
@@ -611,17 +626,17 @@ export function testimonial_templateFields(): TinaField<false>[] {
     {
       type: "boolean",
       name: "enable",
-      label: "enable",
+      label: "Bekapcsolva",
     },
     {
       type: "string",
       name: "topTitle",
-      label: "top title",
+      label: "Cím",
     },
     {
       type: "string",
       name: "title",
-      label: "title",
+      label: "Cím tartalom",
       ui: {
         component: "textarea",
       },
@@ -629,28 +644,28 @@ export function testimonial_templateFields(): TinaField<false>[] {
     {
       type: "object",
       name: "testimonial",
-      label: "Testimonials",
+      label: "Vélemény",
       list: true,
       fields: [
         {
           type: "string",
           name: "name",
-          label: "Name",
+          label: "Név",
         },
         {
           type: "string",
           name: "comment",
-          label: "Comment",
+          label: "Vélemény",
         },
         {
           type: "string",
           name: "time",
-          label: "time",
+          label: "Időpont",
         },
         {
           type: "number",
           name: "star",
-          label: "Star",
+          label: "Csillagok száma",
         },
       ],
     },

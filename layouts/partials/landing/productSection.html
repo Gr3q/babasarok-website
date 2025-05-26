@@ -13,7 +13,7 @@
         <div class="row">
           <div class="col-12">
             <div class="product-item-grid">
-              {{ range first 6 (where $.Site.RegularPages "Type" "product") }}
+              {{ range first .itemCount (where $.Site.RegularPages "Type" "product") }}
                 <div class="product-item">
                 {{ if (isset .Params "thumbnail") }}
                   {{ $asset := resources.Get .Params.thumbnail }}

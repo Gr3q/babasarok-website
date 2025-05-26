@@ -1,5 +1,3 @@
-titleSeparator: '-'
-titleAddition: Egyedi, kézzel készített babakelengye
 images:
   - favicon.ico
 ogLocale: hu_HU
@@ -35,22 +33,23 @@ singleSize: false
 imageAddClass: img-fluid lazyload blur-up
 defaultImage: default-image.png
 fillImage: 1280x720 Center
-blogPageURL: blog
-contactLink: contact
-copyright: All right reserved copyright © Babasarok 2025
-footerLogo: images/site-navigation/logo-dark.png
 footerContact:
   topTitle: Kapcsolat
   title: Rendelj most!
   button: Érdeklődj itt
-fabformURL: 'https://fabform.io/f/G5AmEBI'
+titleSeparator: '-'
+titleAddition: 'Egyedi, kézzel készített babakelengye'
+blogPageURL: blog
 logo: images/site-navigation/logo.png
+footerLogo: images/site-navigation/logo-dark.png
+contactLink: contact
+copyright: All right reserved copyright © Babasarok 2025
+fabformURL: 'https://fabform.io/f/G5AmEBI'
 address:
-  address: '3896, Telkibánya Petőfi út 87.'
+  phone: +36 30 2121 709
   email: halminoemi99@gmail.com
-  phone: "+36 30 2121 709"
+  address: '3896, Telkibánya Petőfi út 87.'
 social:
   - icon: fa-instagram
-    url: 'https://www.facebook.com/'
+    url: 'https://www.instagram.com/babasarokk/'
     weight: 1
-_template: parameters_template

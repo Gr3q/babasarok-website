@@ -50,6 +50,7 @@ address:
   email: halminoemi99@gmail.com
   address: '3896, Telkibánya Petőfi út 87.'
 social:
+  - {}
   - icon: fa-instagram
-    url: 'https://www.instagram.com/babasarokk/'
+    url: 'https://www.facebook.com/share/1ASoKpzadS/?mibextid=wwXIfr'
     weight: 1

@@ -1,4 +1,6 @@
-export function about_templateFields() {
+import { TinaField } from "tinacms";
+
+export function about_templateFields(): TinaField<false>[] {
   return [
     {
       type: "boolean",
@@ -53,7 +55,7 @@ export function about_templateFields() {
     },
   ];
 }
-export function blog_section_templateFields() {
+export function blog_section_templateFields(): TinaField<false>[] {
   return [
     {
       type: "boolean",
@@ -85,7 +87,7 @@ export function blog_section_templateFields() {
     },
   ];
 }
-export function blog_templateFields() {
+export function blog_templateFields(): TinaField<false>[] {
   return [
     {
       type: "string",
@@ -119,7 +121,7 @@ export function blog_templateFields() {
     },
   ];
 }
-export function config_templateFields() {
+export function config_templateFields(): TinaField<false>[] {
   return [
     {
       type: "string",
@@ -148,7 +150,7 @@ export function config_templateFields() {
     },
   ];
 }
-export function hero_templateFields() {
+export function hero_templateFields(): TinaField<false>[] {
   return [
     {
       type: "boolean",
@@ -195,7 +197,7 @@ export function hero_templateFields() {
     },
   ];
 }
-export function menus_templateFields() {
+export function menus_templateFields(): TinaField<false>[] {
   return [
     {
       type: "object",
@@ -252,7 +254,7 @@ export function menus_templateFields() {
     },
   ];
 }
-export function parameters_templateFields() {
+export function parameters_templateFields(): TinaField<false>[] {
   return [
     {
       type: "string",
@@ -395,7 +397,7 @@ export function parameters_templateFields() {
     },
   ];
 }
-export function product_section_templateFields() {
+export function product_section_templateFields(): TinaField<false>[] {
   return [
     {
       type: "boolean",
@@ -417,7 +419,7 @@ export function product_section_templateFields() {
     },
   ];
 }
-export function product_templateFields() {
+export function product_templateFields(): TinaField<false>[] {
   return [
     {
       type: "string",
@@ -467,7 +469,7 @@ export function product_templateFields() {
     },
   ];
 }
-export function resume_templateFields() {
+export function resume_templateFields(): TinaField<false>[] {
   return [
     {
       type: "boolean",
@@ -561,7 +563,7 @@ export function resume_templateFields() {
     },
   ];
 }
-export function service_templateFields() {
+export function service_templateFields(): TinaField<false>[] {
   return [
     {
       type: "boolean",
@@ -604,7 +606,7 @@ export function service_templateFields() {
     },
   ];
 }
-export function testimonial_templateFields() {
+export function testimonial_templateFields(): TinaField<false>[] {
   return [
     {
       type: "boolean",

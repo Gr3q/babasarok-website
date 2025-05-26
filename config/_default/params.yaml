@@ -1,30 +1,13 @@
 titleSeparator: '-'
 titleAddition: Egyedi, kézzel készített babakelengye
-# description: >-
-#   Healthy Food, Healthy Life, The premium quality and tasty dried fruits and
-#   nuts from the best farms of Iran to bring you a healthier and tastier life!
 images:
   - favicon.ico
 ogLocale: hu_HU
 titleHome: Babasarok
-# twitterSite: '@gethyas'
-# twitterCreator: '@henkverlinde'
 schemaType: Organization
 schemaName: Babasarok
 schemaAuthor: Attila Greguss
-# schemaAuthorTwitter: 'https://twitter.com/henkverlinde'
-# schemaAuthorLinkedIn: 'https://www.linkedin.com/in/henkverlinde/'
-# schemaAuthorGitHub: 'https://github.com/h-enk'
 schemaLocale: en-US
-# schemaLogo: logo-hyas.png
-# schemaLogoWidth: 512
-# schemaLogoHeight: 512
-# schemaImage: hyas.png
-# schemaImageWidth: 1280
-# schemaImageHeight: 640
-# schemaTwitter: 'https://twitter.com/gethyas'
-# schemaLinkedIn: ''
-# schemaGitHub: 'https://github.com/h-enk/hyas'
 themeColor: '#F1D3B2'
 landscapePhotoWidths:
   - 900
@@ -61,21 +44,13 @@ footerContact:
   title: Rendelj most!
   button: Érdeklődj itt
 fabformURL: 'https://fabform.io/f/G5AmEBI'
-googleAnalytics: YOUR GOOGLE ANALYTICS CODE
 logo: images/site-navigation/logo.png
 address:
   address: '3896, Telkibánya Petőfi út 87.'
   email: halminoemi99@gmail.com
-  openingHours: TODO
   phone: "+36 30 2121 709"
 social:
-  - icon: fa-facebook-official
+  - icon: fa-instagram
     url: 'https://www.facebook.com/'
     weight: 1
-  - icon: fa-linkedin-square
-    url: 'https://www.linkedin.com/'
-    weight: 2
-  - icon: fa-twitter-square
-    url: 'https://twitter.com/'
-    weight: 4
 _template: parameters_template

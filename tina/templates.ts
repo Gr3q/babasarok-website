@@ -232,7 +232,7 @@ export function menus_templateFields(): TinaField<false>[] {
     {
       type: "object",
       name: "sitemap",
-      label: "Sitemap",
+      label: "Fenti Menü",
       list: true,
       fields: [
         {
@@ -259,12 +259,17 @@ export function parameters_templateFields(): TinaField<false>[] {
     {
       type: "string",
       name: "titleSeparator",
-      label: "Title separator",
+      label: "Cím elválasztó",
+    },
+    {
+      type: "string",
+      name: "titleAddition",
+      label: "Cím kiegészítés",
     },
     {
       type: "string",
       name: "description",
-      label: "Description",
+      label: "Oldal leírása",
     },
     {
       type: "boolean",
@@ -287,32 +292,27 @@ export function parameters_templateFields(): TinaField<false>[] {
     {
       type: "string",
       name: "blogPageURL",
-      label: "blogPageURL",
+      label: "Referenciamunkák URL",
     },
     {
       type: "image",
       name: "logo",
-      label: "logo",
+      label: "Logó",
     },
     {
       type: "image",
       name: "footerLogo",
-      label: "footerLogo",
+      label: "Footer Logó",
     },
     {
       type: "string",
       name: "contactLink",
-      label: "contactLink",
+      label: "Rendelés URL",
     },
     {
       type: "string",
       name: "copyright",
-      label: "copyright",
-    },
-    {
-      type: "string",
-      name: "googleAnalytics",
-      label: "googleAnalytics",
+      label: "Copyright",
     },
     {
       type: "string",
@@ -322,66 +322,40 @@ export function parameters_templateFields(): TinaField<false>[] {
     {
       type: "object",
       name: "address",
-      label: "address",
+      label: "Kapcsolat",
       fields: [
         {
           type: "string",
           name: "phone",
-          label: "phone",
+          label: "Telefonszám",
         },
         {
           type: "string",
           name: "email",
-          label: "email",
+          label: "Email",
         },
         {
           type: "string",
           name: "address",
-          label: "address",
+          label: "Cím",
         },
         {
           type: "string",
           name: "openingHours",
-          label: "openingHours",
-        },
-      ],
-    },
-    {
-      type: "object",
-      name: "map",
-      label: "map",
-      fields: [
-        {
-          type: "string",
-          name: "APIkey",
-          label: "APIkey",
-        },
-        {
-          type: "string",
-          name: "latitude",
-          label: "latitude",
-        },
-        {
-          type: "string",
-          name: "longitude",
-          label: "longitude",
-        },
-        {
-          type: "image",
-          name: "pinImage",
-          label: "pinImage",
+          label: "Elérhetőségi idő (nincs as oldalba beépítve)",
         },
       ],
     },
     {
       type: "object",
       name: "social",
-      label: "Social",
+      label: "Közösségi Média",
+      list: true,
       fields: [
         {
           type: "string",
           name: "icon",
-          label: "Icon",
+          label: "Ikon",
         },
         {
           type: "string",
@@ -391,7 +365,7 @@ export function parameters_templateFields(): TinaField<false>[] {
         {
           type: "number",
           name: "weight",
-          label: "Weight",
+          label: "Prioritás (kisebb előrébb)",
         },
       ],
     },

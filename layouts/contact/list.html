@@ -106,9 +106,14 @@
               </div>
             </div>
             <h4>Közösségi Média</h4>
-            <p class="mb-0">
-              {{ $address.openingHours }}
-            </p>
+            <ul class="mb-0 pl-0 d-flex text-regular p" style="gap: 1rem; font-size: 1.5rem">
+              {{ $social := .Site.Params.social }}
+              {{ range $social }}
+                <li class="d-inline-block">
+                  <a target="_blank" href="{{ .url }}"><i class="fa {{ .icon }}"></i></a>
+                </li>
+              {{ end }}
+            </ul>
           </div>
         </div>
       </div>

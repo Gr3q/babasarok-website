@@ -1,6 +1,8 @@
 enable: true
 topTitle: Babasarok
-content: '# Egyedi, kézzel készített babakelengye'
+content: >
+  # Egyedi, kézzel készített babakelengye
 buttonName: Érdeklődj itt
 buttonURL: contact
-image: /imagesimages/hero/IMG_5440.jpeg
+image: images/hero/IMG_5440.jpeg
+_template: hero_template

@@ -6,11 +6,11 @@ window.addEventListener("DOMContentLoaded", function () {
   function success() {
     form.reset();
     button.style = "display: none ";
-    status.innerHTML = "Thanks! Contact form is submitted successfully.";
+    status.innerHTML = "Köszönjük az érdeklődést/rendelést! Sikeresen megkaptuk az üzenetet.";
   }
 
   function error() {
-    status.innerHTML = "Oops! There was a problem.";
+    status.innerHTML = "Hiba történt az üzenet elküldése során. Kérjük, próbálja újra később.";
   }
 
   // handle the form submission event

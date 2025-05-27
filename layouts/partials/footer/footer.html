@@ -96,7 +96,9 @@
             {{ $social := .Site.Params.social }}
             {{ range $social }}
               <li class="d-inline-block mx-2">
-                <a class="text-light" target="_blank" href="{{ .url }}"><i class="fa {{ .icon }}"></i></a>
+                <a class="text-light" target="_blank" href="{{ .url }}">
+                  <iconify-icon icon="{{ .icon | safeURL }}"></iconify-icon>
+                </a>
               </li>
             {{ end }}
           </ul>

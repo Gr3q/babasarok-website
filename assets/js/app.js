@@ -13,3 +13,4 @@ import "lazysizes";
 import "./assets/js/alert";
 
 import "./script";
+import "iconify-icon";

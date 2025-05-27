@@ -355,7 +355,7 @@ export function parameters_templateFields(): TinaField<false>[] {
         {
           type: "string",
           name: "icon",
-          label: "Ikon",
+          label: "Ikon (https://icon-sets.iconify.design/)",
         },
         {
           type: "string",

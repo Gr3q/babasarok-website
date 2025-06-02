@@ -1,7 +1,8 @@
 ---
 title: Fonott Rácsvédő
-date: 2025-05-20T18:07:16.000+06:00
-thumbnail: /images/product/fonott-racsvedo.jpg
+categories: A baba biztonsága és stílusa egyben
+date: 2025-05-20T12:07:16.000Z
+thumbnail: /IMG_6139.jpg
 table:
   - title: 180cm
     description: 10500Ft
@@ -27,6 +28,11 @@ table:
     description: 21660Ft
   - title: 400cm
     description: 22800Ft
-categories: A baba biztonsága és stílusa egyben
-shortDescription: A fonott rácsvédő nemcsak dizájnos kiegészítője a kiságyának, hanem praktikus védelmet is nyújt. Puha, pufi anyaga megóvja a baba fejét a rácsokkal való ütközéstől, különösen, amikor a pici már forogni kezd. Magas pamut tartalma, antiallergén töltete és mosóbarát jellege garantálja a bababarát környezetet, míg strapabíró kialakítása hosszú távú használatot biztosít.
+shortDescription: >-
+  A fonott rácsvédő nemcsak dizájnos kiegészítője a kiságyának, hanem praktikus
+  védelmet is nyújt. Puha, pufi anyaga megóvja a baba fejét a rácsokkal való
+  ütközéstől, különösen, amikor a pici már forogni kezd. Magas pamut tartalma,
+  antiallergén töltete és mosóbarát jellege garantálja a bababarát környezetet,
+  míg strapabíró kialakítása hosszú távú használatot biztosít.
 ---
+

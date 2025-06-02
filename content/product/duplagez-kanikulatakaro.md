@@ -2,7 +2,7 @@
 title: Duplagéz Kánikulatakaró
 categories: A tökéletes megoldás a forró napokra
 date: 2025-05-01T12:07:16.000Z
-thumbnail: /images/product/kanikulatakaro-combined.jpg
+thumbnail: /IMG_6152.jpg
 table:
   - title: 1 oldalas
     description: 3900Ft

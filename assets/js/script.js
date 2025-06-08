@@ -10,6 +10,7 @@ import "waypoints/lib/jquery.waypoints";
 import { TweenMax, Power3 } from "gsap/TweenMax";
 // TODO: remove this module and use lazysizes instead
 import "imagesloaded";
+import "./form-handler";
 
 // Preloader
 

@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "lib": ["ES6", "DOM"],
+    "target": "es6",
+    "strict": true,
+    "moduleResolution": "bundler"
+  }
+}

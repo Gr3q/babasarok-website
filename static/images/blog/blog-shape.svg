@@ -4,8 +4,8 @@
     <linearGradient id="linear-gradient" x1=".929" x2=".263" y1=".111" y2=".935"
       gradientUnits="objectBoundingBox">
       <!-- TODO: this should be inlined properly so it inherits CSS variables -->
-      <stop offset="0" style="stop-color: var(--light-background, #f1f6f9)" />
-      <stop offset="1" style="stop-color: var(--light-background, #f1f6f9)" stop-opacity="0" />
+      <stop offset="0" style="stop-color: var(--light-background, hsl(28.52, 49.59%, 90.88%))" />
+      <stop offset="1" style="stop-color: var(--light-background, hsl(28.52, 49.59%, 90.88%))" stop-opacity="0" />
     </linearGradient>
   </defs>
   <g id="blob-shape" transform="translate(217.489 188.626)">

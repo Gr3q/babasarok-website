@@ -44,17 +44,22 @@ logo: images/site-navigation/logo.png
 footerLogo: images/site-navigation/logo-dark.png
 contactLink: contact
 copyright: All right reserved copyright © Babasarok 2025
-fabformURL: 'floyd0122@gmail.com'
-autoreply_message: 'Köszönjük, hogy felkerested a Babasarok weboldalát! Hamarosan felvesszük veled a kapcsolatot.'
-contact_success_message: 'Köszönjük az érdeklődést/rendelést! Sikeresen megkaptuk az üzenetet.'
-contact_error_message: 'Hiba történt az üzenet elküldése során. Kérjük, próbálja újra később. Ha a probléma továbbra is fennáll, kérjük, lépjen kapcsolatba velünk e-mailben, telefonon, Instagramon vagy Facebookon.'
+fabformURL: halminoemi99@gmail.com
+autoreply_message: >-
+  Köszönjük, hogy felkerested a Babasarok weboldalát! Hamarosan felvesszük veled
+  a kapcsolatot.
+contact_success_message: Köszönjük az érdeklődést/rendelést! Sikeresen megkaptuk az üzenetet.
+contact_error_message: >-
+  Hiba történt az üzenet elküldése során. Kérjük, próbálja újra később. Ha a
+  probléma továbbra is fennáll, kérjük, lépjen kapcsolatba velünk e-mailben,
+  telefonon, Instagramon vagy Facebookon.
 address:
   phone: +36 30 2121 709
   email: halminoemi99@gmail.com
   address: '3896, Telkibánya Petőfi út 87.'
 social:
-  - icon: fa:instagram
+  - icon: 'fa:instagram'
     url: 'https://www.instagram.com/babasarokk/'
-  - icon: fa-brands:tiktok
+  - icon: 'fa-brands:tiktok'
     url: 'https://www.tiktok.com/@halminoemi99?_t=ZG-8wgf8AuszwG&_r=1'
     weight: 1

@@ -1,5 +1,4 @@
-# TODO: Change this on first deploy
-baseURL: 'https://babasarok.pages.dev/'
+baseURL: 'https://babasarok.net/'
 languageCode: hu-hu
 disableAliases: true
 disableHugoGeneratorInject: false

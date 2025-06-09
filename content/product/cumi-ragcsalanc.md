@@ -7,7 +7,7 @@ table:
   - title: 2 ágú cumi és rágcsalánc egyben
     description: '8500'
   - title: Rágcsalánc
-    description: 7500Ft
+    description: '6500'
   - title: Cumilánc névvel
     description: 3500Ft
 shortDescription: >-

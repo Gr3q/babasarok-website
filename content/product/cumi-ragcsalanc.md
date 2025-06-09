@@ -1,5 +1,5 @@
 ---
-title: Cumi- és rágcsáláncok
+title: Cumi- és rágcsaláncok
 categories: Egyedi és praktikus segítők a fogzás idejére
 date: 2025-04-27T06:49:27.000Z
 thumbnail: /IMG_6394 (1).jpg

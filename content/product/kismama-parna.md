@@ -2,8 +2,9 @@
 title: Kismama párna
 categories: Kényelmes támogatás a várandósság és szoptatás idején
 date: 2025-04-29T12:07:16.000Z
-thumbnail: /IMG_3711.JPG
+thumbnail: /szopipárna.JPG
 table:
+  - {}
   - title: Választható huzattal
     description: 9500Ft
 shortDescription: >-

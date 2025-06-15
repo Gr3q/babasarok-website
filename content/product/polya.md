@@ -1,7 +1,7 @@
 ---
 title: Pólya
 date: 2020-08-11T12:07:16.000Z
-thumbnail: /IMG_6907.JPG
+thumbnail: /pólya 1.JPG
 table:
   - title: Pólya kókuszbetéttel
     description: 7500Ft

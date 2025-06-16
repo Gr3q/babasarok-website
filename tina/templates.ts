@@ -475,6 +475,12 @@ export function product_templateFields(): TinaField<false>[] {
         component: "textarea",
       },
     },
+    {
+      type: "rich-text",
+      name: "content",
+      label: "Tartalom",
+      isBody: true,
+    }
   ];
 }
 export function resume_templateFields(): TinaField<false>[] {
